@@ -1,0 +1,11 @@
+{
+	"name": "remus",
+	"version": "1.0.0",
+	"license": "MIT",
+	"dependencies": {
+		"rome": "^10.0.4-beta"
+	},
+	"scripts": {
+		"lint": "npx rome check --apply"
+	}
+}
